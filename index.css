@@ -609,15 +609,15 @@ footer .icone-container {
     justify-content: center;
     align-items: center;
 }
-footer .icon {
+footer .icone-container .icon {
 
     flex-direction: row;
     justify-content: center;
     align-items: center;
 }
-footer .icon img {
-    height: 30px;
-    width: 30px;
+footer .icone-container .icon img {
+    height: 20px;
+    width: 20px;
 }
 footer ul {
     width: 100%;
